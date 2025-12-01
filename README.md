@@ -1,2 +1,3 @@
 # Exercice_4
-Exercice 4
+
+Ce projet est un exercice de test pour utiliser GIT
